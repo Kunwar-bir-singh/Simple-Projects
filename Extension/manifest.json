@@ -1,0 +1,12 @@
+{
+    "name": "Leads tracker",
+    "version": "1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "html.html",
+        "default_icon": "extension_logo.png"
+    },
+    "permissions" :[
+        "tabs"
+    ]
+}
